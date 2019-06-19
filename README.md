@@ -1,0 +1,1 @@
+# Lung-Capacity-data-using-Linear-regression-in-R
